@@ -1,0 +1,47 @@
+body {
+  font-family: helvetica, arial;
+  color: #555;
+}
+
+a {
+  color: #295dbb;
+}
+
+#page {
+  width: 800px;
+  margin: 20px auto;
+  background: #fff;
+  line-height: 1.4;
+
+  > .sidebar {
+    float: left;
+    width: 200px;
+    font-size: 18px;
+    position: fixed;
+
+    > p {
+      text-align: center;
+
+      > strong {
+        font-weight: bold;
+      }
+      &.more {
+        margin-top: 10px;
+      }
+    }
+    > a.about {
+      > img {
+        border-radius: 100px;
+      }
+    }
+  }
+  > :last-child {
+    margin-left: 240px;
+
+    > h1 {
+      font-size: 34px;
+      margin: 0 0 10px 0;
+      line-height: 1.2;
+    }
+  }
+}
