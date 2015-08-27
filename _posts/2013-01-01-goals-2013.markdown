@@ -1,0 +1,33 @@
+---
+layout: post
+title: "My goals for 2013: Investing in fun"
+date: 2013-01-01 21:08:14
+---
+Benjamin Franklin once said:
+
+> An investment in knowledge pays the best interest.
+
+I'd like that idea to be the focal point of my 2013 - but with a subtle twist:
+
+> An investment in **fun** pays the best dividends.
+
+This year, I'd like to focus less on administration, marketing, profitability, customer support, etc. and more on simply making fun experiences. While it might not pay off economically right away, I believe it is worth it in the long run.
+
+Here's my list of goals for 2013.
+
+* Become better at drawing. I must be able to draw a cool cartoon game character without breaking a sweat.
+* Test the idea of "alone time". Find out whether it is worthwhile. Carry out 3 "alone trips" of minimum 48 hours each.
+* Make one new revenue generating game.
+* Make at least two games where I've drawn all art myself.
+* Participate in 1 game jam (Ludum Dare perhaps).
+* Make a simple live network multiplayer game.
+* Name and establish Project Snowflake (a secret project!).
+* Read 8 books. I should allocate reading time in my schedule to achieve this.
+* Go on a trip abroad. Maybe I should visit my friend Morten in Hong Kong?
+* Get better at waking up early. It is good for me! Get up before 7am on 150 days.
+* Write at least 60 entries in my private journal.
+* Make a game with [Unity](http://unity3d.com/).
+
+Admittedly, this is an ambitious list. And it focuses far more on work compared to last year's list that had more entries related to personal pleasures. But that's fine.
+
+Wish me luck :-)

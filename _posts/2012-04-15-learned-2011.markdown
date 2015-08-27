@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Things I learned in 2011"
+date: 2012-04-15 14:19:03
+---
+Late 2011, [Ryan Singer](http://feltpresence.com/) [asked](https://twitter.com/#!/rjs/status/147413961426472960):
+
+> What's the most important idea you learned in 2011?
+
+I can't decide what's the most important, but I'd like to share the candidates. Some of them are clichés, but I'm ok with that. Some powerful ideas, while simple, can only be truly acknowledged through painful mistakes.
+
+## Focus, focus, focus
+
+In order to create a great product, you must understand the problem you are trying to solve extremely well. This requires relentless focus. While it might be tempting to fire up two projects at once, it is probably not worth it. You'll end up with two mediocre projects instead of one awesome. Do as few things at a time as possible.
+
+## The lens of the toy
+
+I've been making games for almost 10 years. I haven't focused much on "the lens of the toy", as described in [Art of Game Design](http://artofgamedesign.com/). Basically, it encourages you to temporarily stop worrying whether you game is fun to play - and instead focus on whether it is fun to play *with*. We had this is mind when designing the new stadium editor for [Virtual Manager](http://www.virtualmanager.com/) and were surprised to see how well it was received.
+
+## Thinking time
+
+Peter F. Drucker put it well.
+
+> There is nothing so useless as doing efficiently that which should not be done at all.
+
+Sure, you *could* start coding right away. And sure, your code might be very nice and well structured. And I'm sure you'd even feel very productive doing so. But if you're tackling the problem the wrong way or  simply tackling the wrong problem, your efforts isn't worth much. Some problems can take days, weeks, and even months to solve elegantly. I learned that spending more time thinking than actually producing is OK.
+
+## Busy being busy
+
+If you just work a lot of hours you must surely be productive right? It is too easy to surrender to this comfortable fallacy. Now, I try to constantly ask myself this question: Is my current activity actually the most valuable thing for me to do or am I just busy being busy? Work smarter, not harder. I'm getting better at this, but there's plenty of room for improvement.
+
+## Crunching
+
+I discovered the benefits of systematically working extra hard in short periods (1-2 weeks) every now and then. Given a specific common goal, our team created great value in very short time.
+
+The extra work hours are not always equally enjoyable. But the satisfaction of creating something awesome outweighs the temporarily increased stress.
+
+Here's to a 2012 full of learning :-)
