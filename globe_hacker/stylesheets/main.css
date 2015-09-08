@@ -1,0 +1,22 @@
+body {
+  background: #000;
+  font-family: arial;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+canvas {
+  margin: 0 auto;
+  display: block;
+}
+body > .twitter {
+  text-align: center;
+  margin-top: 10px;
+}
+body > .twitter > a {
+  color: #fff;
+  font-weight: bold;
+}

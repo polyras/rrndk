@@ -1,0 +1,5 @@
+Conquer new mainframes by attacking them with charges from your own mainframes.
+
+To send a charge, select a mainframe and click your target.
+
+The authorities' resistance will increase over time. Your only chance is to conquer as many mainframes you can before their resistance gets too strong.

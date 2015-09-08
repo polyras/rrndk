@@ -1,0 +1,32 @@
+Bug med at man kan krydse ens andens by hvis bare man har sendt kommandoen inden
+Restart knap?
+I stedet for lav procentdel power, kunne man måske sige at de automatisk angriber når de har over 10 eller 20? (det er dumt at de store venter længe)
+
+
+
+
+
+How to change scenes?
+Hvordan får man dollars? Ved at sælge sin power? Eller ved at bruge sin power på at hacke?
+Man kan enten HACKE eller angribe med sine power. Fed simpel afvejning.
+Man skal kunne opgradere sine mainframes for dollars?
+Skift fra .x og .y til position = Vector? Ville det spille sammen med Cane?
+Drag map med musen
+
+Overvej at erstatte transfers.new/destroyed med helt simple tjeks i stil med:
+findes der et views for hver af alle disse transfers, hvis nej - så opret dem der mangler. JS ER hurgigt!
+
+
+Umiddelbart giver det ikke mening, at de ikke kæmper imod. Måske man kunne beskrive dette via news-historierne på en eller anden måde så hele oplevelsen får et "forløb". "NASA går ind i kampen mod hackeren".
+Drag bug hvis du dragger uden for vinduet
+
+Måske vise power med grafik i stedet for tal? Kommunikerer også bedre et max. 
+
+
+Ryd op i findConnectedMainframes
+
+
+Vi kan lave en bar der viser hvor opmærksomme offentligheder er... jo højere den kommer, jo mere aggresive bliver de.
+Så det gælder om at være hurtig. Fortæl brugeren det.
+
+Det gælder om at have fået et godt overtag inden verden er blevet opmærksomme.

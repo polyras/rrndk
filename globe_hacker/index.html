@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Globe Hacker</title>
+  <link href="./stylesheets/main.css" type="text/css" rel="stylesheet" />
+  <script type="text/javascript" src="./javascript/lib/request_animation_frame_polyfill.js"></script>
+  <script type="text/javascript" src="./javascript/lib/number_clamp.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/layer.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/group_layer.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/scene.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/animation.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/sprite.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/sound.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/keyboard.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/mouse.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/asset_manager.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/loaders/loader.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/loaders/image_loader.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/loaders/sound_loader.js"></script>
+  <script type="text/javascript" src="./javascript/lib/cane/loaders/text_loader.js"></script>
+  <script type="text/javascript" src="./javascript/game.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/loading_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/loading_scene/loading_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/splash_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/story_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/instructions_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/difficulties_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/difficulties_scene/choose_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/win_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/win_scene/you_won_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/win_scene/playtime_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/win_scene/click_to_continue_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/win_scene/difficulty_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/loss_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/loss_scene/you_lost_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/loss_scene/playtime_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/loss_scene/click_to_continue_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/path_finder.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/ai/commander_ai.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/ai/mainframe_ai.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/resistance_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/world_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/mainframe_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/mainframe_name_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/mainframe_power_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/link_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/layers/transfer_layer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/state.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/world.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/collection.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/link_collection.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/transfer_collection.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/mainframe_collection.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/link.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/transfer.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/mainframe.js"></script>
+  <script type="text/javascript" src="./javascript/scenes/map_scene/models/path.js"></script>
+  <script type="text/javascript" src="./javascript/initializer.js"></script>
+</head>
+
+<body>
+  <div class="game"></div>
+  <div class="twitter"><a href="http://twitter.com/rasmusrn">Follow me on Twitter :-)</a></div>
+</body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7909802-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</html>
