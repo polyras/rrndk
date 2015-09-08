@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+body > canvas, body > .description {
+  position: absolute;
+}
+body > .description > h1 {
+  font-size: 15px;
+}
+body > .description {
+  color: #555;
+  font-size: 12px;
+  font-weight: bold;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  background: #fff;
+  border-radius: 0 0 0 5px;
+  padding: 0 20px;
+  width: 150px;
+  text-align: center;
+}
+body > .description a {
+  color: #1b579a;
+}
