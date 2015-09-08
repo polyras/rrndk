@@ -1,0 +1,14 @@
+Todo:
+- Drag ship
+
+Nice to have:
+- Refactor InputManager så den bruger et "currentDrag-objekt" med info om type, entity, priorParent eller lign. (se fx draggingPassengerMovedToShip)
+
+Thoughts:
+- Click passenger to add to ship (instead of drag?)
+
+Deal breaking bugs:
+- You can't fly TWO passengers, they don't nest properly, wat?
+
+Annyoance bugs:
+- double click på passagaer i ship og han kommer tilbage, wtf?
